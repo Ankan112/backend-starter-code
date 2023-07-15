@@ -34,6 +34,16 @@
             "date": 1689249628582,
             "name": "D:\\practice-project\\backend-starter-code\\logs\\winston\\errors\\2023-13-07-18-error.log",
             "hash": "d7c6fb626d70a6304e6ce6bb4fad84c826a4dd7e1b2fa2dea99fef4cb1ac6dcf"
+        },
+        {
+            "date": 1689263317700,
+            "name": "D:\\practice-project\\backend-starter-code\\logs\\winston\\errors\\2023-13-07-21-error.log",
+            "hash": "015c8488e7abe077856bc0a1808f24b6525d0075d104bc738ce8ef8ec70a56c3"
+        },
+        {
+            "date": 1689367137294,
+            "name": "D:\\practice-project\\backend-starter-code\\logs\\winston\\errors\\2023-15-07-02-error.log",
+            "hash": "0483c9bb6126a95a21e44543c28b48c4d95393ec213fa99a8f0097f391ca558c"
         }
     ],
     "hashType": "sha256"
